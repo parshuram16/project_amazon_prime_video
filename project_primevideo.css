@@ -1,0 +1,206 @@
+
+.bg-container{
+    /* background-image: url("https://img.freepik.com/free-photo/blank-steel-light-frame-black_1258-161.jpg?t=st=1708954977~exp=1708958577~hmac=c01508fad7d028fa005f73b185c842b372ecfe5f4e10ba79e3af5b4463c74738&w=740"); */
+    background-color: rgb(27, 26, 26);
+    /* height: 100vh; */
+    background-size: cover;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+
+.top-section{
+    background-color:   rgb(27, 26, 26);
+    height: 10%;
+
+    
+}
+
+.logo{
+    height: 80px;
+    width: 150px;
+    background-color:  rgb(27, 26, 26);
+    border-radius: 100%;
+
+    
+}
+
+.icon{
+    color: rgb(221, 215, 215);
+    font-size: 20px;
+    /* margin-left: 70px; */
+    justify-content: right;
+}
+
+.icon2{
+    color: white;
+    font-size: 20px;
+    color: rgb(221, 215, 215);
+    
+    
+}
+
+.ic2{
+    background: rgb(46, 164, 168);
+    border-radius: 50px;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 3px;
+    margin-left: 50px;
+}
+
+.d2{
+    display: flex;
+    justify-content: space-between;
+    /* display: inline-block; */
+    height: 10%;
+}
+
+.dd{
+    
+    padding: 25px;
+    /* margin-left: 20px; */
+    
+}
+
+.head{
+    color: white;
+    font-size: 13px;
+    /* font-weight: bold; */
+
+}
+
+.dv2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 5px;
+    height: 5%;
+
+}
+
+.dv3{
+    background-color: rgb(117, 121, 121);
+    height: 20px;
+    width: 30px;
+    text-align: center;
+    border-radius: 30px;
+    padding: 2px;
+}
+
+.cr{
+    height: 10%px;
+    width: 100%;
+    margin-top: 20px;
+    /* overflow: scroll; */
+}
+
+.card-heading{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.card{
+    height: 100px;
+    width: 150px;
+    border-radius: 50px;
+    /* margin: 10px; */
+    margin-left: 40px;
+    /* padding: 10px; */
+}
+
+.img1{
+    height: 100px;
+    width: 150px;
+    /* border-radius: 10px; */
+    
+    
+}
+
+.crdv{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    
+    /* justify-content: space-around; */
+    
+
+}
+
+
+
+div.srcollmenu{
+    background-color: rgb(17, 17, 17);
+
+    white-space: nowrap;
+    overflow: auto;
+    
+
+}
+.srcollmenu::-webkit-scrollbar{
+    display: none;
+}
+
+.imgg22{
+    height: 100px;
+    width: 170px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+div.scrollmenu a{
+    display: inline-block;
+    color: aliceblue;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+.span{
+    color: blue;
+}
+
+
+.bottomsection{
+    height: 5%;
+    width: 100%;
+    background-color: rgb(22, 22, 22);
+    padding: 5px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+}
+
+.ihead{
+    color: white;
+    font-size: 10px;
+
+
+}
+
+.ldiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+
+    text-align: center;
+    /* padding: 10px; */
+}
+.ovr{
+    overflow: scroll;
+    width: 100%;
+    height: 600px;
+    overflow-x: hidden;
+    
+
+
+
+}
+
+.kk::-webkit-scrollbar{
+    display: none;
+}
